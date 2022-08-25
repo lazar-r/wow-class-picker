@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wow-class-picker/static/css/main.a55c36f4.css",
+    "main.js": "/wow-class-picker/static/js/main.d2ff9b9f.js",
+    "static/js/787.8d25f956.chunk.js": "/wow-class-picker/static/js/787.8d25f956.chunk.js",
+    "static/media/malakbt-lichking-wotlk-02.jpg": "/wow-class-picker/static/media/malakbt-lichking-wotlk-02.a1f354727d3a35e34ecb.jpg",
+    "index.html": "/wow-class-picker/index.html",
+    "main.a55c36f4.css.map": "/wow-class-picker/static/css/main.a55c36f4.css.map",
+    "main.d2ff9b9f.js.map": "/wow-class-picker/static/js/main.d2ff9b9f.js.map",
+    "787.8d25f956.chunk.js.map": "/wow-class-picker/static/js/787.8d25f956.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a55c36f4.css",
+    "static/js/main.d2ff9b9f.js"
+  ]
+}
